@@ -36,8 +36,8 @@ To follow along and complete the exercises, ensure you have the following:
 
 - Frappe Bench (v14 or above)
 - ERPNext App (installed)
-- A working development environment (Linux/macOS recommended)
-- Basic knowledge of Python, JavaScript, and REST APIs
+- A working development environment (Linux (ubuntu 22.04 or 24.04) recommended)
+- Basic knowledge of Python, JavaScript, MySQL and REST APIs
 
 ---
 
